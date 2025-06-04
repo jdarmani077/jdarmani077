@@ -1,4 +1,4 @@
-Welcome to my portfolio! I'm a strategic, data-driven Project Manager with 3.5+ years of experience leading cross-functional initiatives across healthcare and supply chain domains.My expertise lies in blending analytical insights with business execution—translating complex data into actionable strategies, optimizing operations, and driving process automation.
+Welcome to my portfolio! I'm a strategic, data-driven Project Manager with 3.5+ years of experience leading cross-functional initiatives across healthcare and supply chain domains. My expertise lies in blending analytical insights with business execution—translating complex data into actionable strategies, optimizing operations, and driving process automation.
 ---
 
 ## 🔍 About Me
