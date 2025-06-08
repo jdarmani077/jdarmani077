@@ -12,7 +12,7 @@ Welcome to my portfolio! I'm a strategic, data-driven Project Manager with 3.5+ 
 
 ## 🚀 Featured Projects
 
-### 1. **Process Optimization with SAP & SYNQ ERP**
+### 1. **Process Optimization in SAP & SYNQ ERP**
 **Goal:** Drive cost savings and streamline planning operations for a Med-Tech client  
 **Actions:**
 - Translated business/system requirements into SAP/SYNQ enhancements  
